@@ -1,0 +1,5 @@
+html, body {
+    background-color: rgb(241, 241, 241);
+    background-color: hwb(120 88% 9%);
+    margin: 0px;
+}
